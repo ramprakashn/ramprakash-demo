@@ -25,9 +25,9 @@ feature:
   icon_pack: fas
   name: Statistics
 - description: 70%
-  icon: camera-retro
-  icon_pack: fas
-  name: Machine Learning
+  icon: tableau
+  icon_pack: custom
+  name: Tableau
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
