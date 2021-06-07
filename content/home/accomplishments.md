@@ -43,8 +43,8 @@ item:
   date_end: ""
   date_start: "2016-02-01"
   description: ""
-  organization: https://www.coursera.org
-  organization_url: https://www.edx.org
+  organization: Coursera
+  organization_url: https://www.coursera.org
   title: Hadoop Platform and Application Framework
   url: ""
 
