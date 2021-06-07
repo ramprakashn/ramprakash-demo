@@ -19,7 +19,7 @@ feature:
 - description: 70%
   icon: python
   icon_pack: fab
-  name: Python
+  name: Python for Data Science
 - description: 80%
   icon: chart-line
   icon_pack: fas
@@ -28,6 +28,14 @@ feature:
   icon: tableau
   icon_pack: custom
   name: Data Vizualisation using Tableau
+- description: 85%
+  icon: database
+  icon_pack: fas
+  name: SQL for Data Science
+- description: 85%
+  icon: sas
+  icon_pack: custom
+  name: SAS for Data Science
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
