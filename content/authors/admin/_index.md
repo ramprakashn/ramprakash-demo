@@ -38,12 +38,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ramprakashn
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/ramprakashn/
@@ -64,4 +64,4 @@ highlight_name: false
 
 I am a Data Scientist with 5+ years of experience using predictive modeling, data processing, and data mining algorithms to solve challenging business problems
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Ramprakash-DataScientist-BFSI.pdf" "newtab" >}}resumé{{< /staticref >}}.
