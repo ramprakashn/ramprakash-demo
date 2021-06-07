@@ -25,9 +25,9 @@ feature:
   icon_pack: fas
   name: Statistics & Machine Learning
 - description: 85%
-  icon: Data Vizualisation using Tbleau
+  icon: tableau
   icon_pack: custom
-  name: Tableau
+  name: Data Vizualisation using Tbleau
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
