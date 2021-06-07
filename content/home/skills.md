@@ -23,9 +23,9 @@ feature:
 - description: 80%
   icon: chart-line
   icon_pack: fas
-  name: Statistics
-- description: 70%
-  icon: tableau
+  name: Statistics & Machine Learning
+- description: 85%
+  icon: Data Vizualisation using Tbleau
   icon_pack: custom
   name: Tableau
 
