@@ -22,20 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Data Scientist
+    company: Danske Bank
+    company_url: 'https://danskeit.co.in/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: Bangalore, India
+    date_start: '2015-05-04'
+    date_end: '2021-01-22'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
+      * Performed customer segmentation and developed models for mortgage and pension products, leveraging analytics to improve marketing-campaign targeting efficiency by 2-5x times
+      * Developed a model monitoring framework collaborating with other team members which not only helps in model evaluation but also in measuring ROI benefits and team management
+      * Collaborated with internal stakeholders, identifying and gathering analytical requirements to evaluate the ROI of marketing campaigns
+      * Worked with representatives of Senior Management from different departments to come up with a data-driven KPI dashboard which was later used to drive the IT Organization of Danske Bank
+      * Worked on POCs related to Sentiment Analysis over Customer Survey,Customer 360 Data platform, Real-time decision-making platform for marketing, etc.
+       
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
