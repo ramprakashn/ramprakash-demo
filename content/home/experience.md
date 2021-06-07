@@ -25,7 +25,7 @@ experience:
   - title: Data Scientist
     company: Danske Bank
     company_url: 'https://danskeit.co.in/'
-    company_logo: DanskeBank
+    company_logo: danskebank
     location: Bangalore, India
     date_start: '2015-05-04'
     date_end: '2021-01-22'
@@ -36,10 +36,10 @@ experience:
       * Worked with representatives of Senior Management from different departments to come up with a data-driven KPI dashboard which was later used to drive the IT Organization of Danske Bank
       * Worked on POCs related to Sentiment Analysis over Customer Survey,Customer 360 Data platform, Real-time decision-making platform for marketing, etc.
        
-  - title: Professor of Semiconductor Physics
+  - title: Senior Application Developer
     company: BNY Mellon
     company_url: 'https://www.bnymellon.com/in/en.html'
-    company_logo: BNYMellon
+    company_logo: bny
     location: Chennai, India
     date_start: '2011-06-11'
     date_end: '2015-04-30'
