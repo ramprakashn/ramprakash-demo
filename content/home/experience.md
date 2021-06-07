@@ -25,7 +25,7 @@ experience:
   - title: Data Scientist
     company: Danske Bank
     company_url: 'https://danskeit.co.in/'
-    company_logo: org-gc
+    company_logo: DanskeBank
     location: Bangalore, India
     date_start: '2015-05-04'
     date_end: '2021-01-22'
@@ -37,14 +37,18 @@ experience:
       * Worked on POCs related to Sentiment Analysis over Customer Survey,Customer 360 Data platform, Real-time decision-making platform for marketing, etc.
        
   - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+    company: BNY Mellon
+    company_url: 'https://www.bnymellon.com/in/en.html'
+    company_logo: BNYMellon
+    location: Chennai, India
+    date_start: '2011-06-11'
+    date_end: '2015-04-30'
+    description: |2-
+      * Ensured programs met standards and technical specifications, performed technical analysis and component delivery
+      * Expert in Sorting Techniques using DFSORT/SYNCSORT Methodology
+      * Have commendable knowledge of PL/SQL and developed Native Stored Procedures for providing data to web interfaced screens from a mainframe database
+      * Developed SAS modules to fetch Job-specific information from CA MICS SAS libraries
+      * Developed MS Access forms using VBA to automate repeated excel based tasks
 design:
   columns: '2'
 ---
