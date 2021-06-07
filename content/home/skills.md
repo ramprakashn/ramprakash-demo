@@ -27,7 +27,7 @@ feature:
 - description: 85%
   icon: tableau
   icon_pack: custom
-  name: Data Vizualisation using Tbleau
+  name: Data Vizualisation using Tableau
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
